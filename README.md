@@ -1,16 +1,15 @@
-## Hi there 👋
+Hola, soy **[Ismael]**, analista de datos. Me apasiona encontrar patrones, mejorar procesos y construir soluciones eficientes con algoritmos y herramientas de ciencia de datos.  
 
-<!--
-**IsmaelDatos/IsmaelDatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí  
+- 📊 **Analista de Datos** con interés en resolver problemas complejos mediante datos.
+- 🏔️ Aficionado al **senderismo**, siempre en busca de nuevos desafíos.
+- 📚 En constante aprendizaje sobre tecnologias nuevas (blockchain)
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas  
+- 💻 **Lenguajes**: Python, C, HTML, CSS  
+- 🛠️ **Frameworks y herramientas**: Django, PostgreSQL, Git, Ubuntu  
+- 📊 **Ciencia de Datos**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Conéctate conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IsmaelDatos/)  
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMael_Datos)  
