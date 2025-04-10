@@ -32,7 +32,7 @@ Hello! I'm **Ismael**, a data analyst passionate about discovering patterns, opt
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelDatos&show_icons=true&theme=dark&bg_color=00000000&text_color=4ade80&icon_color=4ade80&title_color=4ade80" alt="Stats">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDatos&layout=compact&theme=dark&bg_color=00000000&text_color=4ade80&title_color=4ade80" alt="Top Languages" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelDatos&show_icons=true&theme=dark&bg_color=00000000&text_color=4ade80&icon_color=4ade80&title_color=4ade80" alt="Stats">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDatos&layout=compact&theme=dark&bg_color=00000000&text_color=4ade80&title_color=4ade80" alt="Top Languages" height="195" width="250" >
 </p>
 
 ## 🏔️ Personal Interests
