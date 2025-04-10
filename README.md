@@ -1,4 +1,4 @@
-Hola, soy **[Ismael]**, analista de datos. Me apasiona encontrar patrones, mejorar procesos y construir soluciones eficientes con algoritmos y herramientas de ciencia de datos.  
+Hola, soy **Ismael**, analista de datos. Me apasiona encontrar patrones, mejorar procesos y construir soluciones eficientes con algoritmos y herramientas de ciencia de datos.  
 
 ## 🚀 Sobre mí  
 - 📊 **Analista de Datos** con interés en resolver problemas complejos desde el punto de vista analítico. 
