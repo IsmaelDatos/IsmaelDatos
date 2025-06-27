@@ -55,7 +55,7 @@ When I'm not in the crypto/data rabbit hole, I unwind by exploring nature. Hikin
 
 I'm also deeply passionate about wildlife and astronomy. I could spend hours watching documentaries about the universe, black holes, or the migration patterns of animals. It's that kind of curiosity that fuels everything else I do.
 
-### 🎯 Personal Interests (Tryhard Edition)
+### 🎯 Personal Interests
 
 - Hiking and nature exploration 🥾
 - Landscape photography 📸
