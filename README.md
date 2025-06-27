@@ -34,17 +34,35 @@ Hello! I'm **Ismael**, a data analyst passionate about discovering patterns, opt
 
 <div align="center">
   <a href="https://github.com/IsmaelDatos">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=IsmaelDatos&show_icons=true&theme=dark&bg_color=00000000&text_color=4ade80&icon_color=4ade80&title_color=4ade80" alt="Stats">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelDatos&theme=dark&background=00000000&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakNum=4ade80&sideNums=4ade80&currStreakLabel=4ade80" alt="Streak">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=IsmaelDatos&show_icons=true&theme=dark&bg_color=00000000&text_color=3b82f6&icon_color=3b82f6&title_color=3b82f6" alt="Stats">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelDatos&theme=dark&background=00000000&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6&sideNums=3b82f6&currStreakLabel=3b82f6" alt="Streak">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDatos&layout=compact&theme=dark&bg_color=00000000&text_color=3b82f6&title_color=3b82f6" alt="Top Languages"> 
   </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelDatos&theme=github-dark&bg_color=00000000&color=4ade80&line=4ade80&point=ffffff" alt="Activity Graph" width="100%">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDatos&layout=compact&theme=dark&bg_color=00000000&text_color=4ade80&title_color=4ade80" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelDatos&theme=github-dark&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph" width="100%">
 </div>
 
-## 🏔️ Personal Interests
-- Hiking and nature exploration
-- Landscape photography
-- Basketball
+### 🌐 Web3, DeFi & Crypto
+
+Deep into Web3 since 2020. I enjoy everything about this space: DeFi, liquidity pools, smart contracts, airdrop strategies, protocol design, and all the chaos that comes with it.  
+I’m the type of person who reads tokenomics for fun and optimizes airdrop farming strategies like it’s a sport.  
+
+I built tools to enhance that process — for example, a custom analytics project that helps track and improve farming for Plume Network’s airdrop Season 2.  
+Whether it's research, writing code, or deep-dive testing new ecosystems, I love being in Web3.
+
+### 📸 Nature, Space & Exploration
+
+When I'm not in the crypto/data rabbit hole, I unwind by exploring nature. Hiking is my way of resetting — not just walking, but pushing limits, finding new views, and getting uncomfortable.  
+
+I'm also deeply passionate about wildlife and astronomy. I could spend hours watching documentaries about the universe, black holes, or the migration patterns of animals. It's that kind of curiosity that fuels everything else I do.
+
+### 🎯 Personal Interests (Tryhard Edition)
+
+- Hiking and nature exploration 🥾
+- Landscape photography 📸
+- Baseball ⚾
+- Science & space documentaries 🔭
+- Building tools and projects for real-world Web3 use cases ⚙️
+- Airdrop farming & DeFi yield strategies 💸
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaeldatos/) 
