@@ -31,11 +31,15 @@ Hello! I'm **Ismael**, a data analyst passionate about discovering patterns, opt
 - Advanced data processing techniques
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelDatos&show_icons=true&theme=dark&bg_color=00000000&text_color=4ade80&icon_color=4ade80&title_color=4ade80" alt="Stats">  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDatos&layout=compact&theme=dark&bg_color=00000000&text_color=4ade80&title_color=4ade80" alt="Top Languages" height="195">
-</p>
+
+<div align="center">
+  <a href="https://github.com/IsmaelDatos">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=IsmaelDatos&show_icons=true&theme=dark&bg_color=00000000&text_color=4ade80&icon_color=4ade80&title_color=4ade80" alt="Stats">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelDatos&theme=dark&background=00000000&stroke=4ade80&ring=4ade80&fire=4ade80&currStreakNum=4ade80&sideNums=4ade80&currStreakLabel=4ade80" alt="Streak">
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelDatos&theme=github-dark&bg_color=00000000&color=4ade80&line=4ade80&point=ffffff" alt="Activity Graph" width="100%">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDatos&layout=compact&theme=dark&bg_color=00000000&text_color=4ade80&title_color=4ade80" alt="Top Languages">
+</div>
 
 ## 🏔️ Personal Interests
 - Hiking and nature exploration
