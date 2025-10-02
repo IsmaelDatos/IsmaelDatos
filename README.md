@@ -1,4 +1,4 @@
-# Hi, I'm Ismael Ramírez 🇲🇽
+# Hi, I'm Ismael Ramírez
 
 ##### **📊 Data Analyst | 🚀 Aspiring Data Scientist | 🎓 ESCOM IPN Student | 🏔️ Hiking Enthusiast**
 
